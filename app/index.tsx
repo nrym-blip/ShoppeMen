@@ -1,2 +1,3 @@
-import ShoppeMen from '../ShoppeMen';
+﻿import ShoppeMen from '../src/ShoppeMen';
+
 export default ShoppeMen;
